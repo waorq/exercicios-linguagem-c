@@ -4,7 +4,7 @@
 
 int main(){
 	
-	//declaração das variáveis
+	//declaraï¿½ï¿½o das variï¿½veis
 	float volume, raio;
 	
 	//entrada de dados
@@ -14,7 +14,7 @@ int main(){
 	//processamento
 	//valor do PI 3.14159
 	volume =  4.0/3.0*  3.14159 * raio * raio * raio;
-	//saída de dados
+	//saida de dados
 	
 	printf("Volume da esfera = %f\n", volume);
 	
